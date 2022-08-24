@@ -204,6 +204,7 @@
 
 
 ### <a name="3.9"></a>3.9 Дизайн
+[Макет в Figma](https://www.figma.com/file/BMuShsioFsrkMlTeopVc27/AMV-FastInvest)
 
 Сайт должен корректно отображаться как на ПК, так и на мобильных устройствах.
 
